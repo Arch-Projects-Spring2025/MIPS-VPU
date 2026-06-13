@@ -1,4 +1,4 @@
-# MIPS-VPU
+#  MIPS Vector-Extended Processor Architecture
 
 ### SIMD-Enabled MIPS Processor with 128-bit Vector Extensions
 
